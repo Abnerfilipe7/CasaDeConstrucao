@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CasaDeMateriaisDeConstrucao/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z9O22MBpCeNzQpRzl2fvTD5A6Rok7Rg\u002B5K7fwF8p/iI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"557"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022z9O22MBpCeNzQpRzl2fvTD5A6Rok7Rg\u002B5K7fwF8p/iI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 17:48:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CasaDeMateriaisDeConstrucao/css/style.fo6srexbod.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fo6srexbod"},{"Name":"integrity","Value":"sha256-z9O22MBpCeNzQpRzl2fvTD5A6Rok7Rg\u002B5K7fwF8p/iI="},{"Name":"label","Value":"_content/CasaDeMateriaisDeConstrucao/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"557"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022z9O22MBpCeNzQpRzl2fvTD5A6Rok7Rg\u002B5K7fwF8p/iI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 17:48:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CasaDeMateriaisDeConstrucao/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZGFOlL26\u002BJlV83/hqP9rRT7IKBgN\u002BJUWx1PNVVAMOAc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"597"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ZGFOlL26\u002BJlV83/hqP9rRT7IKBgN\u002BJUWx1PNVVAMOAc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 17:48:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CasaDeMateriaisDeConstrucao/index.obod5sp0io.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"obod5sp0io"},{"Name":"integrity","Value":"sha256-ZGFOlL26\u002BJlV83/hqP9rRT7IKBgN\u002BJUWx1PNVVAMOAc="},{"Name":"label","Value":"_content/CasaDeMateriaisDeConstrucao/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"597"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ZGFOlL26\u002BJlV83/hqP9rRT7IKBgN\u002BJUWx1PNVVAMOAc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 22 May 2025 17:48:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

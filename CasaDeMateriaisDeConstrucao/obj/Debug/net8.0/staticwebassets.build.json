@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "ss7dZanSxS8tP6ASDT6soqiGHiNif4nggxPM+ZOllGQ=",
+  "Source": "CasaDeMateriaisDeConstrucao",
+  "BasePath": "_content/CasaDeMateriaisDeConstrucao",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CasaDeMateriaisDeConstrucao\\wwwroot",
+      "Source": "CasaDeMateriaisDeConstrucao",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\aber\\CasaDeConstrucao\\CasaDeMateriaisDeConstrucao\\wwwroot\\",
+      "BasePath": "_content/CasaDeMateriaisDeConstrucao",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Alunos\\Documents\\aber\\CasaDeConstrucao\\CasaDeMateriaisDeConstrucao\\wwwroot\\css\\style.css",
+      "SourceId": "CasaDeMateriaisDeConstrucao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\aber\\CasaDeConstrucao\\CasaDeMateriaisDeConstrucao\\wwwroot\\",
+      "BasePath": "_content/CasaDeMateriaisDeConstrucao",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fo6srexbod",
+      "Integrity": "z9O22MBpCeNzQpRzl2fvTD5A6Rok7Rg+5K7fwF8p/iI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Alunos\\Documents\\aber\\CasaDeConstrucao\\CasaDeMateriaisDeConstrucao\\wwwroot\\index.html",
+      "SourceId": "CasaDeMateriaisDeConstrucao",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\aber\\CasaDeConstrucao\\CasaDeMateriaisDeConstrucao\\wwwroot\\",
+      "BasePath": "_content/CasaDeMateriaisDeConstrucao",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "obod5sp0io",
+      "Integrity": "ZGFOlL26+JlV83/hqP9rRT7IKBgN+JUWx1PNVVAMOAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\Alunos\\Documents\\aber\\CasaDeConstrucao\\CasaDeMateriaisDeConstrucao\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z9O22MBpCeNzQpRzl2fvTD5A6Rok7Rg+5K7fwF8p/iI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 17:48:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z9O22MBpCeNzQpRzl2fvTD5A6Rok7Rg+5K7fwF8p/iI="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.fo6srexbod.css",
+      "AssetFile": "C:\\Users\\Alunos\\Documents\\aber\\CasaDeConstrucao\\CasaDeMateriaisDeConstrucao\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z9O22MBpCeNzQpRzl2fvTD5A6Rok7Rg+5K7fwF8p/iI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 17:48:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fo6srexbod"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z9O22MBpCeNzQpRzl2fvTD5A6Rok7Rg+5K7fwF8p/iI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Alunos\\Documents\\aber\\CasaDeConstrucao\\CasaDeMateriaisDeConstrucao\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZGFOlL26+JlV83/hqP9rRT7IKBgN+JUWx1PNVVAMOAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 17:48:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZGFOlL26+JlV83/hqP9rRT7IKBgN+JUWx1PNVVAMOAc="
+        }
+      ]
+    },
+    {
+      "Route": "index.obod5sp0io.html",
+      "AssetFile": "C:\\Users\\Alunos\\Documents\\aber\\CasaDeConstrucao\\CasaDeMateriaisDeConstrucao\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZGFOlL26+JlV83/hqP9rRT7IKBgN+JUWx1PNVVAMOAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 17:48:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obod5sp0io"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZGFOlL26+JlV83/hqP9rRT7IKBgN+JUWx1PNVVAMOAc="
+        }
+      ]
+    }
+  ]
+}
