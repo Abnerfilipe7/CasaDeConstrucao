@@ -5,20 +5,152 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\1.png",
-      "PackagePath": "staticwebassets\\img\\1.png"
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\areia.png",
+      "PackagePath": "staticwebassets\\img\\areia.png"
     },
     {
-      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\2.png",
-      "PackagePath": "staticwebassets\\img\\2.png"
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\cabos.png",
+      "PackagePath": "staticwebassets\\img\\cabos.png"
     },
     {
-      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\3.png",
-      "PackagePath": "staticwebassets\\img\\3.png"
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\canos.png",
+      "PackagePath": "staticwebassets\\img\\canos.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\ceramica.png",
+      "PackagePath": "staticwebassets\\img\\ceramica.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\chaves.png",
+      "PackagePath": "staticwebassets\\img\\chaves.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\chuveiros.png",
+      "PackagePath": "staticwebassets\\img\\chuveiros.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\cimento1.png",
+      "PackagePath": "staticwebassets\\img\\cimento1.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\cimento2.png",
+      "PackagePath": "staticwebassets\\img\\cimento2.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\cimento3.png",
+      "PackagePath": "staticwebassets\\img\\cimento3.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\cx.png",
+      "PackagePath": "staticwebassets\\img\\cx.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\esmalte.png",
+      "PackagePath": "staticwebassets\\img\\esmalte.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\fios.png",
+      "PackagePath": "staticwebassets\\img\\fios.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\furadeiras.png",
+      "PackagePath": "staticwebassets\\img\\furadeiras.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\inerruptores.png",
+      "PackagePath": "staticwebassets\\img\\inerruptores.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\janela aluminio.png",
+      "PackagePath": "staticwebassets\\img\\janela aluminio.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\janela de vidro.png",
+      "PackagePath": "staticwebassets\\img\\janela de vidro.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\janela madeira.png",
+      "PackagePath": "staticwebassets\\img\\janela madeira.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\main1.png",
+      "PackagePath": "staticwebassets\\img\\main1.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\main2.png",
+      "PackagePath": "staticwebassets\\img\\main2.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\main3.png",
+      "PackagePath": "staticwebassets\\img\\main3.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\martelo.png",
+      "PackagePath": "staticwebassets\\img\\martelo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\porcelanato.png",
+      "PackagePath": "staticwebassets\\img\\porcelanato.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\porta de alumineo.png",
+      "PackagePath": "staticwebassets\\img\\porta de alumineo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\porta de aço.png",
+      "PackagePath": "staticwebassets\\img\\porta de aço.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\porta madeira.png",
+      "PackagePath": "staticwebassets\\img\\porta madeira.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\revestimento.png",
+      "PackagePath": "staticwebassets\\img\\revestimento.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\tijolo.png",
+      "PackagePath": "staticwebassets\\img\\tijolo.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\tintas.png",
+      "PackagePath": "staticwebassets\\img\\tintas.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\torneiras.png",
+      "PackagePath": "staticwebassets\\img\\torneiras.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\valvula metal.png",
+      "PackagePath": "staticwebassets\\img\\valvula metal.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\valvulas.png",
+      "PackagePath": "staticwebassets\\img\\valvulas.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\img\\vernizes.png",
+      "PackagePath": "staticwebassets\\img\\vernizes.png"
     },
     {
       "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\js\\produtos.js",
+      "PackagePath": "staticwebassets\\js\\produtos.js"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\produtos.html",
+      "PackagePath": "staticwebassets\\produtos.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\abner\\CasaDeConstrucao\\wwwroot\\video\\video-main.mp4",
+      "PackagePath": "staticwebassets\\video\\video-main.mp4"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CasaDeMateriaisDeConstrucao.Microsoft.AspNetCore.StaticWebAssets.props",

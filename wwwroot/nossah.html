@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Nossa História - Casa de Construção</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+</head>
+
+<body>
+    <!-- Top Info Bar -->
+    <div class="top-info d-flex flex-wrap justify-content-between">
+        <span>Estado de Minas Gerais | Lojas</span>
+        <span>Compre pelo telefone: 4002-8922 (Capitais) 7634-8973 (Demais regiões)</span>
+        <span>Precisa de ajuda?</span>
+    </div>
+
+    <!-- Navbar principal -->
+    <header>
+        <nav class="navbar navbar-expand-lg bg-white py-3 border-bottom">
+            <div class="container-fluid">
+                <a class="navbar-brand d-flex align-items-center" href="index.html">
+                    <img src="img/logo.png" alt="Logo" width="90" height="90" class="me-2">
+                    <h3 id="titulo-nav">Casa de Construção</h3>
+                </a>
+                <form class="d-flex mx-auto search-box" role="search">
+                    <input class="form-control me-2" type="search" placeholder="O que você procura?" aria-label="Buscar">
+                </form>
+                <div class="d-flex">
+                    <span class="icon-btn">👤</span>
+                    <span class="icon-btn">🛒</span>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Menu inferior -->
+        <div class="bottom-menu">
+            <div class="container-fluid">
+                <ul class="nav py-2 flex-wrap justify-content-center">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="#">Nossa História</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="produtosDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Produtos
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="produtosDropdown">
+                            <li><a class="dropdown-item" href="produtos.html#para-sua-construcao">Para sua construção</a>
+                            </li>
+                            <li><a class="dropdown-item" href="produtos.html#materiais-hidraulicos">Materiais
+                                    hidráulicos</a>
+                            </li>
+                            <li><a class="dropdown-item" href="produtos.html#materiais-eletricos">Materiais
+                                    elétricos</a>
+                            </li>
+                            <li><a class="dropdown-item" href="produtos.html#ferramentas">Ferramentas</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item ms-auto"><a class="nav-link fidelidade" href="#">Contato</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+
+    <main class="container my-5">
+        <h1 class="mb-4 text-center">Nossa História</h1>
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <p>
+                    Fundada em 1995, a Casa de Construção nasceu do sonho de uma família mineira apaixonada por
+                    transformar projetos em realidade. Começamos como uma pequena loja de bairro, oferecendo apenas
+                    alguns materiais básicos, mas sempre com o compromisso de atender cada cliente com atenção,
+                    respeito e qualidade.
+                </p>
+                <p>
+                    Ao longo dos anos, investimos em inovação, ampliamos nosso portfólio e conquistamos a confiança
+                    de milhares de clientes em toda a região. Hoje, somos referência em materiais de construção,
+                    hidráulica, elétrica e ferramentas, mantendo o mesmo espírito acolhedor e familiar que nos
+                    trouxe até aqui.
+                </p>
+                <p>
+                    Nossa missão é facilitar a vida de quem constrói, reforma ou sonha com um novo lar. Por isso,
+                    buscamos sempre as melhores marcas, preços justos e um atendimento diferenciado, seja na loja
+                    física ou pelo nosso site.
+                </p>
+                <p>
+                    Acreditamos que cada obra conta uma história, e temos orgulho de fazer parte de tantas
+                    conquistas e sonhos realizados. Seguimos firmes, inovando e crescendo, mas sem esquecer de
+                    onde viemos e dos valores que nos trouxeram até aqui.
+                </p>
+                <p class="fw-bold text-end">
+                    Casa de Construção<br>
+                    Construindo sonhos desde 1995.
+                </p>
+            </div>
+            <img src="img/Empresaantiga.jpg" alt="Casa de contrução em 1995.">
+        </div>
+    </main>
+
+    <footer class="text-center py-3 bg-light border-top">
+        &copy; 2025 Casa de Construção. Todos os direitos reservados.
+    </footer>
+
+    <!-- Modal de Contato -->
+    <div class="modal fade" id="modalContato" tabindex="-1" aria-labelledby="modalContatoLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form>
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modalContatoLabel">Fale Conosco</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="mb-3">
+                            <label for="contatoNome" class="form-label">Nome</label>
+                            <input type="text" class="form-control" id="contatoNome" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="contatoEmail" class="form-label">E-mail</label>
+                            <input type="email" class="form-control" id="contatoEmail" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="contatoMensagem" class="form-label">Mensagem</label>
+                            <textarea class="form-control" id="contatoMensagem" rows="3" required></textarea>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                        <button type="submit" class="btn btn-primary">Enviar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Abre a modal ao clicar no link "Contato"
+        document.addEventListener('DOMContentLoaded', function () {
+            document.querySelectorAll('.fidelidade').forEach(function (el) {
+                el.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    var modal = new bootstrap.Modal(document.getElementById('modalContato'));
+                    modal.show();
+                });
+            });
+            // Opcional: mensagem de envio (não envia de verdade)
+            document.querySelector('#modalContato form').addEventListener('submit', function (e) {
+                e.preventDefault();
+                alert('Mensagem enviada! Em breve entraremos em contato.');
+                bootstrap.Modal.getInstance(document.getElementById('modalContato')).hide();
+                this.reset();
+            });
+        });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
